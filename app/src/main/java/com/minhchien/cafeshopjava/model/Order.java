@@ -1,5 +1,7 @@
 package com.minhchien.cafeshopjava.model;
 
+import com.minhchien.cafeshopjava.utils.StringUtil;
+
 import java.io.Serializable;
 import java.util.List;
 

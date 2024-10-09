@@ -1,5 +1,7 @@
 package com.minhchien.cafeshopjava.model;
 
+import com.minhchien.cafeshopjava.utils.Constant;
+
 import java.io.Serializable;
 import java.lang.reflect.Constructor;
 
