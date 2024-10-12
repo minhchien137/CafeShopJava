@@ -102,8 +102,8 @@
 
     <string name="label_rating_review_order">Đánh giá quá trình giao hàng cho đơn hàng này</string>
     <string name="label_rating_review_drink">Bạn cảm thấy đồ uống này như thế nào?</string>
-    <string name="label_rating">Xếp hạng</string>
-    <string name="label_review">Đánh giá</string>
+    <string name="label_rating">Chất lượng sản phẩm</string>
+    <string name="label_review">Đánh giá sản phẩm </string>
     <string name="label_review_note">Đánh giá sẽ được hiển thị công khai</string>
     <string name="label_send_review">Gửi đánh giá</string>
     <string name="msg_send_review_success">Đánh giá đã được gửi thành công</string>
