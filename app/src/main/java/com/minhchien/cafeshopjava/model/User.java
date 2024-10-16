@@ -8,10 +8,9 @@ public class User {
     private String password;
     private boolean isAdmin;
 
-    public User(String email, String password, boolean isAdmin) {
+    public User(String email, String password) {
         this.email = email;
         this.password = password;
-        this.isAdmin = isAdmin;
     }
 
     public User() {
